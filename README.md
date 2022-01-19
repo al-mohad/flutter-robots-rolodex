@@ -1,6 +1,7 @@
 # robots_rolodex
 
-A new Flutter project.
+Flutter Robox Rolodex
+![ROOBTS ROLODEX](https://github.com/al-mohad/flutter-robots-rolodex/blob/main/robot.png)
 
 ## Getting Started
 
@@ -15,4 +16,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![ROOBTS ROLODEX](https://github.com/al-mohad/flutter-robots-rolodex/blob/main/robot.png)
+![ROOBTS ROLODEX](https://github.com/al-mohad/flutter-robots-rolodex/blob/main/scr1.png)
+![ROOBTS ROLODEX](https://github.com/al-mohad/flutter-robots-rolodex/blob/main/scr2.png)
+![ROOBTS ROLODEX](https://github.com/al-mohad/flutter-robots-rolodex/blob/main/scr3.png)
